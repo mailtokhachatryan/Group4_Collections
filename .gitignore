@@ -1,3 +1,7 @@
+.idea/
+out/
+Collections.iml
+
 # Compiled class file
 *.class
 
